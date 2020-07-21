@@ -1,12 +1,7 @@
 {
   "pages": [
-<<<<<<< HEAD
-    "pages/index/index",
-    "pages/logs/logs"
-=======
     "pages/home/home",
     "pages/about/about"
->>>>>>> 7998462438cf73686eb87538e965ef9dd4cc7c43
   ],
   "window": {
     "backgroundTextStyle": "light",
